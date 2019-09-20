@@ -6,6 +6,6 @@ range(3) #[0, 1, 2, 3]
 
 for i in range(3):
 	print(i)
-	#print i =0
-	#print i =1
-	#print i =2
+			#print i =0
+			#print i =1
+			#print i =2
