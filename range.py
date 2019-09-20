@@ -25,3 +25,6 @@ for i in range(100):
 #range(2, 5) [2, 3, 4]
 #range(2, 10, 3) [2, 5, 8]
 #range(10, 3 , -2) [10, 8, 6, 4]
+
+for i in range(100):
+	print('hi') #print 'hi' 100 times
